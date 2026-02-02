@@ -1,0 +1,24 @@
+Example Docking Case Study
+
+Target Protein:
+SARS-CoV-2 Main Protease (PDB ID: 6LU7)
+
+Objective:
+Study protein–ligand interactions relevant to antiviral drug discovery.
+
+Workflow Summary:
+1. Protein structure retrieved from Protein Data Bank (PDB ID: 6LU7).
+2. Water molecules removed and protein prepared for docking.
+3. Ligand molecule selected and optimized.
+4. Docking simulation performed using docking software.
+5. Binding affinity evaluated.
+6. Docked complex visualized for interaction analysis.
+
+Sample Observation:
+Docking suggests stable ligand binding near active site residues,
+indicating potential inhibition capability.
+
+Note:
+This example demonstrates docking workflow understanding for
+educational purposes.
+
