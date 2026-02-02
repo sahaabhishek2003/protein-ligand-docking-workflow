@@ -1,0 +1,22 @@
+Docking Results Summary
+
+Protein: SARS-CoV-2 Main Protease (6LU7)
+Ligand: Example inhibitor molecule
+
+Predicted Binding Energy:
+-7.5 kcal/mol
+
+Key Interacting Residues:
+His41, Cys145, Glu166
+
+Interaction Types Observed:
+- Hydrogen bonding
+- Hydrophobic interactions
+- Van der Waals contacts
+
+Interpretation:
+Docking results indicate favorable ligand binding near the active
+site, suggesting possible inhibition of protease activity.
+
+Note:
+Results represent example analysis for workflow learning purposes.
